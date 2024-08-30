@@ -1,63 +1,63 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "imagebaseurl":"https://github.com/BZRKing",
+    "name": "Luan Jywago Santos Ferreira",
+    "role": "Brasilian computer science student, awakened by Frotend and back-and",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": " I like to get involved and discover the various areas of back and front-end development, as well as learn more and more about technology and innovations or simply be able to play a little during my free time in order to relax.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/luan-jywago-8269ba298/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/BZRKing",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"http://twitter.com/jywago_",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"Prazer! sou o Luan Jywago Santos ferreira, graduado em nutrição pelao Centro universitário de brasília e estou realizando minha segunda graduação em ciência da computação. Meu intuito com o curso é crescimento pessoal, de empresas e abrangencia de conhecimento para lidar com as diversas áreas da tecnologia e informação. Tenho despertar de interesse em Frontend, Back-end, programação em python e as que me forem necessárias aprender dependendo do cargo.",
+    "address":"Brazil",
+    "website":"https://github.com/BZRKing",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Centro Universitário de Brasília",
+        "specialization":"Nutrição (Bacharelado)",
+        "MonthOfPassing":"Dez",
+        "YearOfPassing":"2023",
+        "Achievements":""
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Centro Universitário de Brasiília",
+        "specialization":"Ciência da Computação",
+        "MonthOfPassing":"Jun",
+        "YearOfPassing":"2024",
+        "Achievements":"Udemy: Curso de python (54 horas) - Em progresso"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
+        "CompanyName":"Ainda sem esperiência",
+        "specialization":"Ainda sem esperiência",
         "MonthOfLeaving":"Jan",
         "YearOfLeaving":"2018",
         "Achievements":"Some Achievements"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
+        "CompanyName":"Ainda sem esperiência",
+        "specialization":"Ainda sem esperiência",
         "MonthOfLeaving":"Jan",
         "YearOfLeaving":"2018",
         "Achievements":"Some Achievements"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Este é um pouco do demonstrativo das minhas habilidades e capaciades.",
     "skills":[
       {
         "skillname":"HTML5"
